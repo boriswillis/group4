@@ -3,6 +3,12 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PCG",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"Windows"
 	]
